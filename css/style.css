@@ -1,0 +1,25 @@
+/*este es un comentario que cubre loque sea*/
+body{
+	background-color: lightblue;
+}
+.pDiferente{
+	color: red;
+}
+.negritaSemantica{
+	color: aqua;
+}
+.zabalafranco120{
+	color: #121bd7;
+}
+.FRANCO{
+	color: rgb(245, 160, 18 ) ;
+}
+.divRGBA{
+	width: 50%;
+	background-color: rgba(241, 10, 10, 1.0);
+}
+
+/*colores*/
+/*nombre del color*/
+
+/*codigo hexadecimal*/
